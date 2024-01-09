@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/https//brijeshjose.github.io/Game-Quiz/static/css/main.89227271.chunk.css",
+    "main.js": "/https//brijeshjose.github.io/Game-Quiz/static/js/main.22dc2231.chunk.js",
+    "main.js.map": "/https//brijeshjose.github.io/Game-Quiz/static/js/main.22dc2231.chunk.js.map",
+    "runtime-main.js": "/https//brijeshjose.github.io/Game-Quiz/static/js/runtime-main.edc0b6a1.js",
+    "runtime-main.js.map": "/https//brijeshjose.github.io/Game-Quiz/static/js/runtime-main.edc0b6a1.js.map",
+    "static/js/2.8ac15b93.chunk.js": "/https//brijeshjose.github.io/Game-Quiz/static/js/2.8ac15b93.chunk.js",
+    "static/js/2.8ac15b93.chunk.js.map": "/https//brijeshjose.github.io/Game-Quiz/static/js/2.8ac15b93.chunk.js.map",
+    "static/js/3.0b66f35e.chunk.js": "/https//brijeshjose.github.io/Game-Quiz/static/js/3.0b66f35e.chunk.js",
+    "static/js/3.0b66f35e.chunk.js.map": "/https//brijeshjose.github.io/Game-Quiz/static/js/3.0b66f35e.chunk.js.map",
+    "index.html": "/https//brijeshjose.github.io/Game-Quiz/index.html",
+    "static/css/main.89227271.chunk.css.map": "/https//brijeshjose.github.io/Game-Quiz/static/css/main.89227271.chunk.css.map",
+    "static/js/2.8ac15b93.chunk.js.LICENSE.txt": "/https//brijeshjose.github.io/Game-Quiz/static/js/2.8ac15b93.chunk.js.LICENSE.txt",
+    "static/js/3.0b66f35e.chunk.js.LICENSE.txt": "/https//brijeshjose.github.io/Game-Quiz/static/js/3.0b66f35e.chunk.js.LICENSE.txt",
+    "static/media/correct.160572d7.mp3": "/https//brijeshjose.github.io/Game-Quiz/static/media/correct.160572d7.mp3",
+    "static/media/play.8e5f6d1d.mp3": "/https//brijeshjose.github.io/Game-Quiz/static/media/play.8e5f6d1d.mp3",
+    "static/media/wrong.e9468218.mp3": "/https//brijeshjose.github.io/Game-Quiz/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edc0b6a1.js",
+    "static/js/2.8ac15b93.chunk.js",
+    "static/css/main.89227271.chunk.css",
+    "static/js/main.22dc2231.chunk.js"
+  ]
+}
